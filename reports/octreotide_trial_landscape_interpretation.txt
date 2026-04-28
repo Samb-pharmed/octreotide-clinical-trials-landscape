@@ -1,0 +1,44 @@
+
+Octreotide Clinical Trial Landscape Summary
+
+Dataset overview
+----------------
+The dataset contains 100 octreotide-related clinical trial records extracted from ClinicalTrials.gov.
+
+Trial status landscape
+----------------------
+The most common trial status is COMPLETED. The dataset includes 59 completed trials, 11 recruiting trials, 10 terminated trials, and 5 withdrawn trials.
+
+Based on recruitment status, 13 trials are classified as active or ongoing, while 87 trials are classified as inactive or closed.
+
+Clinical phase landscape
+------------------------
+The most common development phase is PHASE2. This suggests that the octreotide clinical trial landscape includes substantial mid- to late-stage clinical development activity.
+
+Sponsor landscape
+-----------------
+The most frequent sponsor in the dataset is Novartis. Sponsor-level analysis helps identify the major commercial, academic, or institutional contributors to the octreotide trial landscape.
+
+Enrollment profile
+------------------
+The median enrollment size is 45.0 participants, while the largest trial enrolled 2000.0 participants. This indicates that most octreotide studies are relatively focused in size, although some larger studies are also present.
+
+Trial duration profile
+----------------------
+The median trial duration is approximately 40.0 months, with the longest trial lasting approximately 231.0 months. Trial duration may reflect differences in indication, phase, endpoint type, follow-up requirements, and recruitment complexity.
+
+Time trend
+----------
+The available start year range is from 1995.0 to 2018.0. This allows investigation of whether octreotide trial activity has increased, decreased, or shifted over time.
+
+Portfolio interpretation
+------------------------
+From a pharma data science perspective, this analysis provides a structured overview of the octreotide clinical development landscape. The dataset can be used to explore development trends, sponsor concentration, phase distribution, recruitment status, enrollment burden, and trial duration patterns.
+
+Potential next steps
+--------------------
+1. Analyse trial duration by phase and sponsor.
+2. Compare enrollment size across trial phases.
+3. Identify indications most commonly associated with octreotide trials.
+4. Build a recruitment-risk or trial-duration modelling dataset.
+5. Expand the search to comparator products such as lanreotide or pasireotide.

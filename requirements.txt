@@ -1,0 +1,7 @@
+pandas
+requests
+openpyxl
+matplotlib
+seaborn
+jupyter
+scikit-learn
