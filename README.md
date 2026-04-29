@@ -95,3 +95,9 @@ Initial analysis showed that:
 ## Disclaimer
 
 This project uses publicly available clinical trial registry data for educational and portfolio purposes. The analysis is exploratory and should not be interpreted as regulatory, clinical, or investment advice.
+
+>>> ## Author
+
+Developed by Saeid Bazraei as a pharma-focused data science portfolio project.
+
+GitHub: [Samb-pharmed](https://github.com/Samb-pharmed)
